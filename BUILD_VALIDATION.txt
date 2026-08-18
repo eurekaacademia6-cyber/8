@@ -1,0 +1,10 @@
+{
+  "python_syntax_errors": [],
+  "mainwindow_method_count": 24,
+  "worker_isolated": true,
+  "worker_auto_restart": true,
+  "capture_recoverable": true,
+  "per_frame_results": true,
+  "per_candle_close_event": true,
+  "continuous_watchdog": true
+}

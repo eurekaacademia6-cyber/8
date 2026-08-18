@@ -1,0 +1,6 @@
+{
+  "python_syntax_errors": [],
+  "load_config_method_present": true,
+  "cfg_alias_present": true,
+  "constructor_smoke_test_present": true
+}

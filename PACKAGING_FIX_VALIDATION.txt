@@ -1,0 +1,6 @@
+{
+  "python_syntax_errors": [],
+  "robust_config_lookup": true,
+  "checks_pyinstaller_internal": true,
+  "workflow_lists_bundle": true
+}

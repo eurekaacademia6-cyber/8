@@ -1,0 +1,6 @@
+{
+  "python_syntax_errors": [],
+  "missing_mainwindow_methods": [],
+  "all_required_methods_inside_class": true,
+  "tracker_workflow_test_present": true
+}

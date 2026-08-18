@@ -1,0 +1,9 @@
+{
+  "python_syntax_errors": [],
+  "issues_fixed": [
+    "DetectorConfig import mismatch",
+    "Detector current candle state",
+    "Prediction timeframe keyword mismatch",
+    "Signal diagnostics field"
+  ]
+}

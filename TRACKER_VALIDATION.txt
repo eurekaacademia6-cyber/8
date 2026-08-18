@@ -1,0 +1,38 @@
+{
+  "python_syntax_errors": [],
+  "tracker_smoke": {
+    "first_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "second_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_id": 12,
+    "stability": 0.0,
+    "stable_count": 0,
+    "new_tracks_second_frame": 0
+  },
+  "workflow_tracker_test_present": true
+}

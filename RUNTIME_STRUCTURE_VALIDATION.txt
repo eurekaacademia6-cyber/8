@@ -1,0 +1,23 @@
+{
+  "python_syntax_errors": [],
+  "mainwindow_methods": [
+    "__init__",
+    "_load_config",
+    "_cfg",
+    "_build_ui",
+    "_timeframe_changed",
+    "_offset_changed",
+    "_toggle_boxes",
+    "start",
+    "stop",
+    "update_clock_display",
+    "process_once",
+    "_update_current",
+    "_update_prediction",
+    "_update_table",
+    "_update_audit",
+    "_update_overlay",
+    "closeEvent"
+  ],
+  "required_methods_present": true
+}

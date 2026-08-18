@@ -1,0 +1,6 @@
+{
+  "python_syntax_errors": [],
+  "spec_exists": true,
+  "workflow_exists": true,
+  "main_py_exists": true
+}

@@ -1,0 +1,7 @@
+{
+  "python_syntax_errors": [],
+  "safe_process_timer": true,
+  "safe_clock_timer": true,
+  "global_exception_hook": true,
+  "runtime_log": "%LOCALAPPDATA%/QuotexVisionAI/logs"
+}

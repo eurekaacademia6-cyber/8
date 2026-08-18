@@ -1,0 +1,6 @@
+{
+  "python_syntax_errors": [],
+  "capture_method_present": true,
+  "capture_window_compatibility_method_present": true,
+  "duplicate_workflow_removed": true
+}

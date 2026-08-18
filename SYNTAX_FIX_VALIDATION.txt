@@ -1,0 +1,6 @@
+{
+  "python_syntax_errors": [],
+  "main_window_future_import_fixed": true,
+  "main_window_starts_with_future_import": true,
+  "qt_smoke_test_present": false
+}
